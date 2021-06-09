@@ -1,8 +1,9 @@
-
+import LoginSignupResetpassw from "./login-signup-resetpassw";
+import './App.css'
 function App() {
   return (
-    <div>
-      Hello World!
+    <div className="container">
+    <LoginSignupResetpassw/>
     </div>
   );
 }
